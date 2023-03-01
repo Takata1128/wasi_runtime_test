@@ -1,0 +1,6 @@
+[submodule "wasmer"]
+	path = wasmer
+	url = https://github.com/Takata1128/wasmer
+[submodule "wasmtime"]
+	path = wasmtime
+	url = https://github.com/Takata1128/wasmtime
